@@ -17,7 +17,7 @@ return (
  your <br /> next project.
  </p>
  <div className="flex gap-4 mt-10">
-<button className="btn bg-gradient-to-r from-orange-500 to-pink-500 rounded-xl text-white">
+<button className="btn bg-linear-to-r from-orange-500 to-pink-500 rounded-xl text-white">
 Explore Technologies </button>
 <button className="btn rounded-xl">Learn More</button>
  </div>

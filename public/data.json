@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "badge": "Frontend",
+    "technologyName": "HTML5",
+    "description": "The standard markup language used to structure content on web pages.",
+    "category": "Frontend",
+    "difficulty": "Beginner-Friendly",
+    "rating": 4.9,
+    "button": "Learn More"
+  },
+  {
+    "id": 2,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "badge": "Styling",
+    "technologyName": "CSS3",
+    "description": "A stylesheet language used to design and style modern web pages.",
+    "category": "Styling",
+    "difficulty": "Beginner-Friendly",
+    "rating": 4.8,
+    "button": "Learn More"
+  },
+  {
+    "id": 3,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "badge": "Language",
+    "technologyName": "JavaScript",
+    "description": "A powerful programming language used to create interactive web applications.",
+    "category": "Language",
+    "difficulty": "Intermediate",
+    "rating": 4.9,
+    "button": "Learn More"
+  },
+  {
+    "id": 4,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "badge": "Language",
+    "technologyName": "TypeScript",
+    "description": "A strongly typed programming language built on top of JavaScript.",
+    "category": "Language",
+    "difficulty": "Intermediate",
+    "rating": 4.8,
+    "button": "Learn More"
+  },
+  {
+    "id": 5,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "badge": "Frontend",
+    "technologyName": "React",
+    "description": "A JavaScript library for building reusable and interactive user interfaces.",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "rating": 4.9,
+    "button": "Learn More"
+  },
+  {
+    "id": 6,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+    "badge": "Frontend",
+    "technologyName": "Next.js",
+    "description": "A React framework for building fast, scalable, and full-stack web applications.",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "rating": 4.8,
+    "button": "Learn More"
+  },
+  {
+    "id": 7,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+    "badge": "Styling",
+    "technologyName": "Tailwind CSS",
+    "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
+    "category": "Styling",
+    "difficulty": "Beginner-Friendly",
+    "rating": 4.8,
+    "button": "Learn More"
+  },
+  {
+    "id": 8,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "badge": "Backend",
+    "technologyName": "Node.js",
+    "description": "A JavaScript runtime that allows developers to build server-side applications.",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "rating": 4.8,
+    "button": "Learn More"
+  },
+  {
+    "id": 9,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "badge": "Backend",
+    "technologyName": "Express.js",
+    "description": "A lightweight Node.js framework for building web servers and REST APIs.",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "rating": 4.7,
+    "button": "Learn More"
+  },
+  {
+    "id": 10,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    "badge": "Database",
+    "technologyName": "MongoDB",
+    "description": "A NoSQL database designed for storing flexible, document-based data.",
+    "category": "Database",
+    "difficulty": "Intermediate",
+    "rating": 4.7,
+    "button": "Learn More"
+  },
+  {
+    "id": 11,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "badge": "Tools",
+    "technologyName": "Git",
+    "description": "A distributed version control system used to track changes in source code.",
+    "category": "Tools",
+    "difficulty": "Beginner-Friendly",
+    "rating": 4.9,
+    "button": "Learn More"
+  },
+  {
+    "id": 12,
+    "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "badge": "Tools",
+    "technologyName": "GitHub",
+    "description": "A platform for hosting code, collaborating with developers, and managing projects.",
+    "category": "Tools",
+    "difficulty": "Beginner-Friendly",
+    "rating": 4.9,
+    "button": "Learn More"
+  }
+]

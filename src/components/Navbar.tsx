@@ -6,19 +6,19 @@ const Navbar = () => {
         <div className="flex justify-between  container mx-auto">
           <img src={Logo} alt="NavImage" />
           <ul className="flex gap-4 items-center">
-            <li className="transition duration-300 hover:text-pink-500">
+            <li className="transition duration-300 hover:text-pink-500 cursor-pointer">
               Home
             </li>
-            <li className="transition duration-300 hover:text-pink-500">
+            <li className="transition duration-300 hover:text-pink-500 cursor-pointer">
               Technologies
             </li>
-            <li className="transition duration-300 hover:text-pink-500">
+            <li className="transition duration-300 hover:text-pink-500 cursor-pointer">
               Projects
             </li>
-            <li className="transition duration-300 hover:text-pink-500">
+            <li className="transition duration-300 hover:text-pink-500 cursor-pointer">
               About
             </li>
-            <li className="transition duration-300 hover:text-pink-500">
+            <li className="transition duration-300 hover:text-pink-500 cursor-pointer">
               Contact
             </li>
           </ul>
