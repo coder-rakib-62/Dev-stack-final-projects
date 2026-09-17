@@ -4,7 +4,7 @@
     "technologyIcon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
     "badge": "Frontend",
     "technologyName": "HTML5",
-    "description": "The standard markup language used to structure content on web pages.",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
     "category": "Frontend",
     "difficulty": "Beginner-Friendly",
     "rating": 4.9,
